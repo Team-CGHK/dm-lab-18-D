@@ -1,4 +1,4 @@
-dm-lab-18-D
+Discrete Math, Lab 18, Problem D
 ===========
 
 Lottery profit expected value
